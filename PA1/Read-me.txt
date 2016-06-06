@@ -1,0 +1,19 @@
+Latex online link: https://www.overleaf.com/read/prjdsgprcxxx
+
+Steps:
+1. Run the PA1.py file.
+
+It will prompt user with the following :
+Option 1 : Read,Display and Write image to another format: 
+Option 2 : Display gray scale map of image: 
+Option 3 : Subplot Red, Green and Blue channels of image: 
+Option 4 : Convert gray scale image to binary and display it: 
+Option 5 : Arithmetic operations using RGB channels,gray-scale or binary image: 
+Option 6 : Compute Histogram,PDF,CDF of the image
+Option 7 : Compute Histogram Equalisation of the image
+Option 8 : Exit the program
+Enter option number to perform that operation :
+
+2. Enter a number between 1 to 7 to perform the corresponding operation
+Once the operation is performed and when you close the window, it will again ask to enter the option number.
+unless you press 8 to exit the program.
